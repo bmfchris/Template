@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <AssemblyVersion>22.1.12.29757</AssemblyVersion>
+    <FileVersion>22.1.12.29757</FileVersion>
+  </PropertyGroup>
+
+</Project>

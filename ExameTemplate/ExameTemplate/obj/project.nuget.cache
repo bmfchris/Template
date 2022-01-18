@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1Dguy44g+XwaBIVlU4B3BBfOxnsX62dt4J2F1IdWtRpoYQY6FF0u8ckyPW/lGAvbsBWqEaZlsgjDnuw7Rq8v/g==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\ExameTemplate\\ExameTemplate\\ExameTemplate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\manho\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

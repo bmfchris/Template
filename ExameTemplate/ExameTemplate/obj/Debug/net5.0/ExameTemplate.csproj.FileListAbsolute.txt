@@ -1,0 +1,16 @@
+D:\Code\ExameTemplate\ExameTemplate\bin\Debug\net5.0\ExameTemplate.exe
+D:\Code\ExameTemplate\ExameTemplate\bin\Debug\net5.0\ExameTemplate.deps.json
+D:\Code\ExameTemplate\ExameTemplate\bin\Debug\net5.0\ExameTemplate.runtimeconfig.json
+D:\Code\ExameTemplate\ExameTemplate\bin\Debug\net5.0\ExameTemplate.runtimeconfig.dev.json
+D:\Code\ExameTemplate\ExameTemplate\bin\Debug\net5.0\ExameTemplate.dll
+D:\Code\ExameTemplate\ExameTemplate\bin\Debug\net5.0\ref\ExameTemplate.dll
+D:\Code\ExameTemplate\ExameTemplate\bin\Debug\net5.0\ExameTemplate.pdb
+D:\Code\ExameTemplate\ExameTemplate\obj\Debug\net5.0\ExameTemplate.csproj.AssemblyReference.cache
+D:\Code\ExameTemplate\ExameTemplate\obj\Debug\net5.0\ExameTemplate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\ExameTemplate\ExameTemplate\obj\Debug\net5.0\ExameTemplate.AssemblyInfoInputs.cache
+D:\Code\ExameTemplate\ExameTemplate\obj\Debug\net5.0\ExameTemplate.AssemblyInfo.cs
+D:\Code\ExameTemplate\ExameTemplate\obj\Debug\net5.0\ExameTemplate.csproj.CoreCompileInputs.cache
+D:\Code\ExameTemplate\ExameTemplate\obj\Debug\net5.0\ExameTemplate.dll
+D:\Code\ExameTemplate\ExameTemplate\obj\Debug\net5.0\ref\ExameTemplate.dll
+D:\Code\ExameTemplate\ExameTemplate\obj\Debug\net5.0\ExameTemplate.pdb
+D:\Code\ExameTemplate\ExameTemplate\obj\Debug\net5.0\ExameTemplate.genruntimeconfig.cache
